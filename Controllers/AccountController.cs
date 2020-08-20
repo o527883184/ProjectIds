@@ -14,7 +14,6 @@ using ProjectIds.Models;
 
 namespace ProjectIds.Controllers
 {
-    [SecurityHeaders]
     [AllowAnonymous]
     public class AccountController : Controller
     {
